@@ -1,3 +1,3 @@
 # sql_puzzles
 
-1. VSCODE telepítése
+1. VSCODE telepítése, kész?
